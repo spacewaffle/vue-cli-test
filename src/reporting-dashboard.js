@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import App from './reporting-dashboard.vue'
-import "../public/custom.scss" 
+import "./assets/custom.scss" 
 
 Vue.config.productionTip = false
 
